@@ -1,0 +1,14 @@
+[
+  {
+    "customer_id": "C101",
+    "name": "ABC Pvt Ltd",
+    "city": "Mumbai",
+    "payment_terms": "30 Days"
+  },
+  {
+    "customer_id": "C102",
+    "name": "XYZ Enterprises",
+    "city": "Pune",
+    "payment_terms": "15 Days"
+  }
+]

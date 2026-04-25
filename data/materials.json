@@ -1,0 +1,14 @@
+[
+  {
+    "material_id": "M301",
+    "name": "Laptop",
+    "price": 50000,
+    "stock": 100
+  },
+  {
+    "material_id": "M302",
+    "name": "Steel",
+    "price": 2000,
+    "stock": 500
+  }
+]
